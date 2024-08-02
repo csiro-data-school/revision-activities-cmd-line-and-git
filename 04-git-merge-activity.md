@@ -24,12 +24,12 @@
   ls
 ```  
 
-9. Note that you now have a file named “`musings.txt`”, but also another branch (`more-thoughts`) 
-where you had made additions to a file still named “`thoughts.txt`”.  
-As “`thoughts.txt`” no longer exists, what will happen when we merge `more-thoughts` in to `main`/`master`?  
+9. Note that you now have a file named “musings.txt”, but also another branch (`more-thoughts`) 
+where you had made additions to a file still named “thoughts.txt”.  
+As “thoughts.txt” no longer exists, what will happen when we merge `more-thoughts` in to `main`/`master`?  
   
 Try it out!:  
-`git merge more-thoughts`  
+`  git merge more-thoughts`  
   
   
 [<< Back](03-shell-script-challenge.md)  |  [Next >>](05-git-pm-activity.md)  

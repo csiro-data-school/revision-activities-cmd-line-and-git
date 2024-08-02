@@ -1,7 +1,7 @@
 ## Git forking exercise  
   
 1. Make your own fork of:  
-https://bitbucket.csiro.au/projects/DAT/repos/programmatic-data-example/  
+[https://bitbucket.csiro.au/projects/DAT/repos/programmatic-data-example/](https://bitbucket.csiro.au/projects/DAT/repos/programmatic-data-example/)  
   
 2. Clone your fork to your local machine  
 

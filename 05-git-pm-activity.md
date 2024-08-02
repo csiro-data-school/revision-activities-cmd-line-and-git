@@ -50,5 +50,4 @@ to the instructions below. Use the instructions only if you get stuck or want to
     - Display the commit history showing all branches and tags  
   
   
-[<< Index](04-git-merge-activity.md)  |  [Next >>](06-git-fork-activity.md)  
-  
+[<< Back](04-git-merge-activity.md)  |  [Next >>](06-git-fork-activity.md)  

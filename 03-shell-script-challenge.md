@@ -12,6 +12,7 @@
     - Print “--------”
   (Note, these are each separate steps, on different lines, within your loop)  
   
+  
 4. Try running your script on `exercise-data/creatures/*.dat`  
   You should see:  
 ```
