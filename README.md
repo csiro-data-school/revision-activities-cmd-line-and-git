@@ -10,9 +10,9 @@ pages.
 Content hosted in gh-pages at:  
 [https://csiro-data-school.github.io/revision-activities-cmd-line-and-git/](https://csiro-data-school.github.io/revision-activities-cmd-line-and-git/)  
   
-Contacts: 
-    - andrew.spriggs@csiro.au  
-    - alex.whan@csiro.au  
-    - claire.trenham@csiro.au  
-    - david.spadaro@csiro.au  
+Contacts:  
+  - andrew.spriggs@csiro.au  
+  - alex.whan@csiro.au  
+  - claire.trenham@csiro.au  
+  - david.spadaro@csiro.au  
   

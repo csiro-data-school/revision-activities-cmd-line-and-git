@@ -15,3 +15,10 @@ These final activities are for the end of the last day.
   
 5. [Git forking exercise](06-git-fork-activity.md)  
   
+  
+---  
+  
+
+**Source repository:** 
+[https://github.com/csiro-data-school/revision-activities-cmd-line-and-git](https://github.com/csiro-data-school/revision-activities-cmd-line-and-git)  
+  
