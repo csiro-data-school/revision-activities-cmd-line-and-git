@@ -9,7 +9,7 @@
     - Print (**echo**) the file name
     - Print the first line of the file
     - Print the last line of the file
-    - Print “--------”
+    - Print "--------"
   (Note, these are each separate steps, on different lines, within your loop)  
   
   

@@ -8,7 +8,7 @@
 
 4. **M**a**k**e a new **dir**ectory named `z_samples`  
 
-5. Using a wildcard, copy the files with a ‘Z’ in the name into `z_samples`  
+5. Using wildcards, copy the files with a ‘Z’ in the name into `z_samples`  
 
 6. Use ‘**head**’ to peek at the contents of the files you’ve copied into `z_samples`  
 

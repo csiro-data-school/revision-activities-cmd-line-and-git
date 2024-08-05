@@ -16,17 +16,17 @@
 7. Switch back to your `main` or `master` branch.  
 
 8. A file can be renamed, with the renaming tracked by git, by using ‘`git mv`’. Try it out now with:  
-```
+```bash
   git mv thoughts.txt musings.txt
   git status
-  git commit -m “renamed thoughts to musings”
+  git commit -m "renamed thoughts to musings"
   git graph
   ls
 ```  
 
-9. Note that you now have a file named “musings.txt”, but also another branch (`more-thoughts`) 
-where you had made additions to a file still named “thoughts.txt”.  
-As “thoughts.txt” no longer exists, what will happen when we merge `more-thoughts` in to `main`/`master`?  
+9. Note that you now have a file named "musings.txt", but also another branch (`more-thoughts`) 
+where you had made additions to a file still named "thoughts.txt".  
+As "thoughts.txt" no longer exists, what will happen when we merge `more-thoughts` in to `main`/`master`?  
   
 Try it out!:  
 `  git merge more-thoughts`  
