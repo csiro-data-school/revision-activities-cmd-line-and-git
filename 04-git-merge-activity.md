@@ -28,8 +28,12 @@
 where you had made additions to a file still named "thoughts.txt".  
 As "thoughts.txt" no longer exists, what will happen when we merge `more-thoughts` in to `main`/`master`?  
   
-Try it out!:  
-`  git merge more-thoughts`  
+Try it out! :  
+```bash
+  git merge more-thoughts  
+```  
+  
+What has happened?  
   
   
 [<< Back](03-shell-script-challenge.md)  |  [Next >>](05-git-pm-activity.md)  
