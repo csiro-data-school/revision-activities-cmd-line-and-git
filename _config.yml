@@ -1,2 +1,6 @@
 title: 'Intro to command lines and Git, revision activities'
 description: Revision activities for Ag&Food Data School week 1
+
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
